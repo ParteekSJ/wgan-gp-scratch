@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.ipynb
+__pycache__
+data/*
+notes/*
+images/*
+experiments/*
